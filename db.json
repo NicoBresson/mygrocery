@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "username": "bob",
+      "password": "123"
+    },
+    {
+      "id": 1,
+      "name": "momo",
+      "password": "1233"
+    },
+    {
+      "name": "momo",
+      "password": "1233"
+    },
+    {
+      "name": "momo",
+      "password": "1233"
+    },
+    {
+      "name": "mimi",
+      "password": "123"
+    },
+    {
+      "name": "mimi",
+      "password": "123"
+    },
+    {
+      "name": "mimi",
+      "password": "123"
+    },
+    {
+      "name": "maiurice",
+      "password": "1234"
+    },
+    {
+      "name": "mami",
+      "password": "123"
+    },
+    {},
+    {},
+    {
+      "name": "momo",
+      "password": "1234"
+    },
+    {
+      "name": "mammouth",
+      "password": "123"
+    },
+    {
+      "name": "mama",
+      "password": "123"
+    },
+    {
+      "name": "arthuro",
+      "password": "123"
+    }
+  ]
+}
